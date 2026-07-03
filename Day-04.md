@@ -2,7 +2,7 @@
 
 ## Day 4 - Coding Practice
 
-**Date:** 32 June 2026
+**Date:** 2 July 2026
 
 ---
 
